@@ -1,13 +1,13 @@
 body{
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: black;
 }
 
 a:link {
-color: white;
+color: blue;
 }
 a:hover {
-color: white;
+color: blue;
 }
 
 a {
